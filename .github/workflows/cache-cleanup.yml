@@ -1,4 +1,4 @@
-name: Cache Cleanup
+name: Cleanup Job
 on:
   workflow_dispatch:
   push:
