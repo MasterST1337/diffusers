@@ -1,4 +1,4 @@
-name: Maintenance
+name: Runner Maintenance
 on:
   workflow_dispatch:
   push:
